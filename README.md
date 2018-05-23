@@ -1,7 +1,7 @@
-# Coursera_Algorithms <h1> 
+# Coursera_Algorithms 
 Tasks from  "Data Structures and Algorithms" specialization
 
-## COURSES: <h2> 
+## COURSES: 
 
 **1.** Algorithmic Toolbox
 
