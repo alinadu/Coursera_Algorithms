@@ -16,8 +16,7 @@ class Bracket:
             return True
         return False
     
-    
-    
+        
 def checking_brackets(initial_string):
     opening_brackets_stack = []
     
@@ -37,6 +36,7 @@ def checking_brackets(initial_string):
         return top.position
     
     return 'Success'
+
 
 if __name__ == "__main__":
     text = input()
